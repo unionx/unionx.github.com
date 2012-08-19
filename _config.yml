@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://unionx.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: #'(lambda () nil)
+subtitle:
+author: unionx
 simple_search: http://google.com/search
 description:
 

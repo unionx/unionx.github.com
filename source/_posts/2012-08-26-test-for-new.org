@@ -1,0 +1,9 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "test-for-new"
+date: 2012-08-26 03:32
+comments: true
+categories: 
+---
+#+END_HTML

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Read Compojure Source Code"
+title: "部署Octopress要注意的几个问题"
 date: 2012-12-30 06:15
 comments: true
 categories: 

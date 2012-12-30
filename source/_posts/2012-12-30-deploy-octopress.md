@@ -1,12 +1,24 @@
 ---
 layout: post
-title: "部署Octopress要注意的几个问题"
+title: "部署Octopress"
 date: 2012-12-30 06:15
 comments: true
-categories: 
+categories: 杂 装逼
 ---
 
 
-### 开始阅读Compojure源码
+## 提升逼格，使用Octopress
 
-最近肯定是太无聊了啊哈哈哈哈
+像我这种时髦值超高的程序员怎么可能在博客园之类的地方写博客！不过自己写静态博客生成器也太麻烦了，所以就捡个现成的，用Octopress好了。不过读了几圈文档再加上hack了一下代码之后，还是觉得要总结几点需要注意的地方的，所以在此记录下来。
+
+### 换个主题
+
+这个不多说了，用过wordpress的同学估计都很喜欢换一些奇奇怪怪的主题。Octopress的第三方主题貌似不对，找到了一个收集Octopress主题的站点[Octopress Themes](http://octopressthemes.com/)，但是里面的主题也不多，所以就选了个还行的blanket来用了。
+
+### hack一下导航栏
+
+Octopress号称“黑客”的博客系统，就是鼓励用户直接更改源码。所以修改了一下html源码，在导航栏里加了个回到主页的链接。
+
+### 关闭twitter相关功能
+
+Fuck GFW，Fuck方校长。因为在下载twitter站点的东西都会背墙，所以干脆把twitter相关的功能都关掉了。在_config.yml里设置一下就可以了。

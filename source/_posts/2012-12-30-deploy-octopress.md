@@ -22,3 +22,9 @@ Octopress号称“黑客”的博客系统，就是鼓励用户直接更改源�
 ### 关闭twitter相关功能
 
 Fuck GFW，Fuck方校长。因为在下载twitter站点的东西都会背墙，所以干脆把twitter相关的功能都关掉了。在_config.yml里设置一下就可以了。
+
+### 内嵌代码
+
+Octopress内嵌代码很方便，测试一下下。内嵌Gist插件貌似在新版本Gist发布之后就坏了，正在更新中。在内嵌代码时如果要指定语言，可以到[Available Lexers](http://pygments.org/docs/lexers)查找相应的Lexer。
+
+{% include_code The Root of Lisp lang:cl root.lisp %}

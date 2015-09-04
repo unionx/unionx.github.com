@@ -2,6 +2,10 @@ body {
   color: #777;
 }
 
+img {
+  max-width: 720px;
+}
+
 .pure-img-responsive {
   max-width: 100%;
   height: auto;
@@ -131,7 +135,7 @@ hr {
   /*margin: 2em 2em 1em 0;*/
   font-size: 1.8em;
   /*font-weight: 300;*/
-  color: #888;
+  color: black;
   position: relative;
   line-height: 1em;
 }

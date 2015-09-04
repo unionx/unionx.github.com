@@ -1,16 +1,16 @@
-title: "jekyll-pure"
-author: Tuan Anh Tran
-email: example@domain.com
-description: Just another jekyll theme
+title: "基因岛"
+author: 帝归
+email: unionx@foxmail.com
+description: 生命，计算，以及其他
 baseurl: ""
-url: "http://example.com"
-permalink: /:title/
-twitter_username: tuananh_org
-github_username:  tuananh
+# url: "http://example.com"
+permalink: /:year/:month/:day/:title.html
+twitter_username: unionx
+github_username:  unionx
 
 paginate: 10
 markdown: kramdown
 
 kramdown:
   input: GFM
-  #syntax_highlighter: rouge
+  syntax_highlighter: rouge

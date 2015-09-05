@@ -2,8 +2,7 @@ title: "基因岛"
 author: 帝归
 email: unionx@foxmail.com
 description: 生命，计算，以及其他
-baseurl: ""
-# url: "http://example.com"
+url: "http://unionx.me"
 permalink: /:year/:month/:day/:title.html
 twitter_username: unionx
 github_username:  unionx

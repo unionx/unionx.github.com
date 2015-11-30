@@ -7,7 +7,9 @@ permalink: /:year/:month/:day/:title.html
 twitter_username: unionx
 github_username:  unionx
 
+gems: [jekyll-paginate]
 paginate: 10
+
 markdown: kramdown
 
 kramdown:

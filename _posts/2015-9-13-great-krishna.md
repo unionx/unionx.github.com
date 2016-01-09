@@ -5,14 +5,7 @@ date:   2015-9-13 12:0:0
 categories: 文化 奎师那
 ---
 
-<!--
-<video src="/assets/video/krishna.mp4" width="720" controls>
-  Your browser does not support the video tag.
-</video>
--->
-
-<embed src="http://static.hdslb.com/play.swf?aid=1865682"
-       width="720" height="600" />
+<embed src="http://static.hdslb.com/play.swf?aid=1865682" width="720" height="600">
 
 最近在公司分享了一个叫做《印度神话》的 Session，还讲了两次，反响不错。
 

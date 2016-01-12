@@ -9,7 +9,7 @@ categories: 影视 歌曲 摩诃婆罗多
 
 信徒之敌生惊怕
 护佑之行起光华
-轮回之海桥度化
+轮回之海巧度化
 寰宇之极恩威压
 斩断罪孽止倾塌
 气贯长虹扬正法
@@ -27,4 +27,6 @@ categories: 影视 歌曲 摩诃婆罗多
 妙见一出平凶煞
 妙见神威定征伐
 
-<embed src="http://static.hdslb.com/play.swf?aid=2203916&page=50" width="720" height="600" />
+<embed height="720" width="600" quality="high" allowfullscreen="true" type="application/x-shockwave-flash"
+       src="http://static.hdslb.com/miniloader.swf" flashvars="aid=2203916&page=50"
+       pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" />

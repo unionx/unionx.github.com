@@ -9,9 +9,3 @@ github_username:  unionx
 
 gems: [jekyll-paginate]
 paginate: 10
-
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge

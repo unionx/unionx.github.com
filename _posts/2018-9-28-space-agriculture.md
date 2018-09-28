@@ -11,4 +11,5 @@ categories: 星际移民 太空农业 空间生物学
 
 一个例子是，改造现有的垂直农业的实现方案，使其适应太空环境：
 
-<iframe src="//player.bilibili.com/player.html?aid=12728146&cid=20928840&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=12728146&cid=20928840&page=1"
+        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:720px;height:600px;"></iframe>

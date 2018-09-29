@@ -3,10 +3,8 @@ layout: page
 permalink: /about/
 ---
 
-<img src="{{ site.url }}/assets/img/fuxi.png" alt="头像" style="width:720px" />
-
 <br>
-帝归，本质上是个道士，写代码。
+帝归，写代码
 
 兴趣点：
 

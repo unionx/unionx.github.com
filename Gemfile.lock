@@ -1,8 +1,8 @@
 GEM
-  remote: https://ruby.taobao.org/
+  remote: https://gems.ruby-china.com/
   specs:
     colorator (0.1)
-    ffi (1.9.10)
+    ffi (1.11.1)
     jekyll (3.0.0)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -34,8 +34,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (>= 1.9.24)
   jekyll
   jekyll-paginate
 
 BUNDLED WITH
-   1.10.6
+   2.0.2

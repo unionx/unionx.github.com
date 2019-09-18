@@ -4,16 +4,20 @@ permalink: /about/
 ---
 
 <br>
-帝归，写代码
+![头像]({{ site.url }}/assets/img/fuxi.png)
+<br>
+
+帝归，写代码，写文章，写小说
 
 兴趣点：
 
-- 新医疗
-- 计算生物学
+- 计算科学
+- 生物医学
 - 行星生态改造
 
 Online:
 
 - [Github](https://github.com/unionx)
-- [豆瓣](http://www.douban.com/people/unionz/)
+- [微博](https://weibo.com/unionx)
+- [知乎专栏](https://zhuanlan.zhihu.com/unionx)
 - [星际移民中心](http://interimm.org/)
